@@ -3,7 +3,7 @@
 "Online Payment Fraud Detection using Machine Learning" is a project that leverages advanced data analytics and machine learning algorithms to detect fraudulent transactions in online payment systems. With the increasing prevalence of online transactions, detecting and preventing fraud is crucial for protecting consumers and businesses from financial losses.
 
 # Key Objectives:
-1. Data Collection: Gather transaction data from online payment systems, including features such as transaction amount, time, location, device information, and user behavior.
+1. Data Collection: Gather transaction data from online payment systems, including features such as transaction amount, time, location, device information, and user behavior etc.
 2. Feature Engineering: Extract relevant features from the transaction data and create new features that capture patterns indicative of fraudulent behavior.
 3. Model Selection: Utilize machine learning algorithms such as logistic regression, decision trees, random forests, support vector machines, or neural networks to build predictive models.
 4. Model Training: Train the machine learning models using historical transaction data labeled as either fraudulent or legitimate.
